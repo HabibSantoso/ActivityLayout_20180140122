@@ -4,4 +4,16 @@
     <string name="kelas">Hello im claas B</string>
     <string name="btnSubmit">Submit</string>
     <string name="carmodel">Subaru WRX</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="match">MATCH PARENT</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="selectbike">Select your motorcyle</string>
+    <string name="namelb">Name:</string>
+    <string name="namehint">Enter Your Name</string>
+    <string name="phonelb">Phone:</string>
+    <string name="phonehint">Enter Your Phone Number</string>
+    <string name="addresslb">Address</string>
+    <string name="adddresshint">Enter Your Address</string>
 </resources>
