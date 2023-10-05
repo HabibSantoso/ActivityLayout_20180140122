@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projectclass_b</string>
+    <string name="name">Habib</string>
+    <string name="kelas">Hello im claas B</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="carmodel">Subaru WRX</string>
+</resources>
